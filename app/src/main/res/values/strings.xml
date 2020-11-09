@@ -11,7 +11,7 @@
     <string name="DescripcionContacto">Descripción del Contacto</string>
     <string name="siguiente">Siguiente</string>
     <string name="confirmar">Confirmar Datos</string>
-    <string name="Editar">Editar</string>
+    <string name="Editar">Editar Datos</string>
 
     <string name="nombreFConfirmar">Luis Cortez</string>
     <string name="fechaFConfirmar">01/01/20</string>
