@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="titulo">Registro de contacto</string>
+    <string name="fName">Nombre</string>
+    <string name="fDescripcionName">Ingrese su nombre de usuario</string>
+    <string name="fFecha">Fecha</string>
+    <string name="fDescripcionFecha">seleccione su fecha de nacimiento</string>
+    <string name="Telefono">Telefono</string>
+    <string name="DescripcionTelefono">Ingrese su numero telefonico</string>
+    <string name="Email">Email</string>
+    <string name="DescripcionContacto">Descripción del Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="Editar">Editar</string>
+
+    <string name="nombreFConfirmar">Luis Cortez</string>
+    <string name="fechaFConfirmar">01/01/20</string>
+    <string name="telefonoFConfirmar">5588771232</string>
+    <string name="emailFConfirmar">email@gmail.com</string>
+    <string name="descripcionFConfirmar">no se</string>
+    
+    <string name="pnombre">nombreFConfirmar</string>
+    <string name="pfecha">fechaFConfirmar</string>
+    <string name="ptelefono">telefonoFConfirmar</string>
+    <string name="pemail">emailFConfirmar</string>
+    <string name="pdescripcion">descripcionFConfirmar</string>
+</resources>
