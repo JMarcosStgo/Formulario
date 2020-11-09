@@ -24,4 +24,5 @@
     <string name="ptelefono">telefonoFConfirmar</string>
     <string name="pemail">emailFConfirmar</string>
     <string name="pdescripcion">descripcionFConfirmar</string>
+
 </resources>
